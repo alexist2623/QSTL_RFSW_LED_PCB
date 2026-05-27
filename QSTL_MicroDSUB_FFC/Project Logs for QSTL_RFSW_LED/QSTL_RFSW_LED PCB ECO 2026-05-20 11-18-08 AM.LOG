@@ -1,0 +1,127 @@
+Added Component: Designator=J2(581-M25-113L461)
+Added Component: Designator=J4(FP-503480-0540-MFG)
+Add component (AddParameter): Name = "Actuator Material"; Value = "Glass, Nylon, Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze, Gold, Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "KR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.07mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "52963780"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "508¥ìm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Type"; Value = "Straight"; VariantName = "[No Variations]"
+Added Component: Designator=J7(FP-503480-0540-MFG)
+Add component (AddParameter): Name = "Actuator Material"; Value = "Glass, Nylon, Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze, Gold, Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "KR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.07mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "52963780"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "508¥ìm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Type"; Value = "Straight"; VariantName = "[No Variations]"
+Added Component: Designator=J9(FP-503480-0540-MFG)
+Add component (AddParameter): Name = "Actuator Material"; Value = "Glass, Nylon, Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze, Gold, Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "KR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.07mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "52963780"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "508¥ìm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Type"; Value = "Straight"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=7 Pin=J2-1
+Added Pin To Net: NetName=7 Pin=J2-2
+Added Pin To Net: NetName=7 Pin=J2-3
+Added Pin To Net: NetName=7 Pin=J2-4
+Added Pin To Net: NetName=16 Pin=J2-5
+Added Pin To Net: NetName=16 Pin=J2-6
+Added Pin To Net: NetName=16 Pin=J2-7
+Added Pin To Net: NetName=16 Pin=J2-8
+Added Pin To Net: NetName=15 Pin=J2-9
+Added Pin To Net: NetName=15 Pin=J2-10
+Added Pin To Net: NetName=15 Pin=J2-11
+Added Pin To Net: NetName=15 Pin=J2-12
+Added Pin To Net: NetName=6 Pin=J2-14
+Added Pin To Net: NetName=1 Pin=J2-15
+Added Pin To Net: NetName=2 Pin=J2-16
+Added Pin To Net: NetName=3 Pin=J2-17
+Added Pin To Net: NetName=4 Pin=J2-18
+Added Pin To Net: NetName=5 Pin=J2-19
+Added Pin To Net: NetName=14 Pin=J2-20
+Added Pin To Net: NetName=8 Pin=J2-21
+Added Pin To Net: NetName=9 Pin=J2-22
+Added Pin To Net: NetName=10 Pin=J2-23
+Added Pin To Net: NetName=11 Pin=J2-24
+Added Pin To Net: NetName=12 Pin=J2-25
+Added Pin To Net: NetName=GND Pin=J2-26
+Added Pin To Net: NetName=GND Pin=J2-27
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=19 Pin=J4-2
+Added Pin To Net: NetName=18 Pin=J4-3
+Added Pin To Net: NetName=17 Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=25 Pin=J7-2
+Added Pin To Net: NetName=24 Pin=J7-3
+Added Pin To Net: NetName=23 Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=22 Pin=J9-2
+Added Pin To Net: NetName=21 Pin=J9-3
+Added Pin To Net: NetName=20 Pin=J9-4
+Added Pin To Net: NetName=GND Pin=J9-5
+Added Member To Class: ClassName=QSTL_RFSW_LED Member=Component J2 Plug 25 P Micro DSUB
+Added Member To Class: ClassName=QSTL_RFSW_LED Member=Component J4 503480-0540
+Added Member To Class: ClassName=QSTL_RFSW_LED Member=Component J7 503480-0540
+Added Member To Class: ClassName=QSTL_RFSW_LED Member=Component J9 503480-0540
